@@ -1,0 +1,19 @@
+.addUpdateTimeMainDiv {
+	display: inline-grid;
+	row-gap: 1rem;
+	width: 100%;
+}
+
+.addUpdateTimeTopCard {
+	height: 85vh;
+}
+
+.addUpdateTimeButtonBar {
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+}
+
+.addUpdateTimeSaveButtonStyle {
+	float: center;
+}

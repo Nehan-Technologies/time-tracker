@@ -1,0 +1,19 @@
+.reviewMainDiv {
+	display: inline-grid;
+	row-gap: 1rem;
+	width: 100%;
+}
+
+.reviewTopCard {
+	height: 85vh;
+}
+
+.reviewButtonBar {
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+}
+
+.reviewSaveButtonStyle {
+	float: right;
+}

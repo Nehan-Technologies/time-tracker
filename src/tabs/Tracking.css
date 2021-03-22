@@ -1,0 +1,32 @@
+.mainDiv {
+	display: inline-grid;
+	row-gap: 1rem;
+}
+
+.topCard {
+	height: 42vh;
+}
+
+.bottomCard {
+	height: 42vh;
+}
+
+.buttonBar {
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+}
+
+.saveButtonStyle {
+	float: right;
+}
+
+.p-tabview .p-tabview-nav li .p-tabview-nav-link:not(.p-disabled):focus
+	{
+	box-shadow: none;
+}
+
+.monthSelectionContainer {
+	margin-bottom: 1rem;
+	display: none;
+}
