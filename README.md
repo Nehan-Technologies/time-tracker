@@ -21,3 +21,8 @@ node and npm
 
 no test cases written yet.
 
+## Screen shots
+
+![screen shot 1](https://github.com/Nehan-Technologies/time-tracker/edit/main/screenshot1.png)
+
+![screen shot 2](https://github.com/Nehan-Technologies/time-tracker/edit/main/screenshot2.png)
